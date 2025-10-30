@@ -1,0 +1,23 @@
+{
+  "id": "config-preset-large-labels-a4",
+  "name": "Large Labels A4",
+  "timestamp": 1738123200000,
+  "config": {
+    "columns": 3,
+    "rows": 4,
+    "pageFormat": "A4",
+    "margin": 10,
+    "lineColors": [],
+    "columnColors": [],
+    "cellColors": [],
+    "lineSpacing": [],
+    "columnSpacing": [],
+    "globalSettings": {
+      "barcodeHeight": 80,
+      "barWidth": 3,
+      "fontSize": 18,
+      "textMargin": 4,
+      "cellPadding": 8
+    }
+  }
+}

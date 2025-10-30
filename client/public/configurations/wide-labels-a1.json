@@ -1,0 +1,23 @@
+{
+  "id": "config-preset-wide-labels-a1",
+  "name": "Wide Labels A1",
+  "timestamp": 1738123200000,
+  "config": {
+    "columns": 8,
+    "rows": 12,
+    "pageFormat": "A1",
+    "margin": 15,
+    "lineColors": [],
+    "columnColors": [],
+    "cellColors": [],
+    "lineSpacing": [],
+    "columnSpacing": [],
+    "globalSettings": {
+      "barcodeHeight": 60,
+      "barWidth": 2,
+      "fontSize": 14,
+      "textMargin": 3,
+      "cellPadding": 6
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "config-preset-small-labels-a4",
+  "name": "Small Labels A4",
+  "timestamp": 1738123200000,
+  "config": {
+    "columns": 6,
+    "rows": 8,
+    "pageFormat": "A4",
+    "margin": 5,
+    "lineColors": [],
+    "columnColors": [],
+    "cellColors": [],
+    "lineSpacing": [],
+    "columnSpacing": [],
+    "globalSettings": {
+      "barcodeHeight": 40,
+      "barWidth": 2,
+      "fontSize": 12,
+      "textMargin": 2,
+      "cellPadding": 4
+    }
+  }
+}
